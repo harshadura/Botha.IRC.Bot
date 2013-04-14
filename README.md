@@ -30,5 +30,4 @@ How to Run
 6. Happy botting!
 
 Cheers,
-
 Harsha
