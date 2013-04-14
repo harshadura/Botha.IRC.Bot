@@ -1,16 +1,11 @@
 Botha.IRC.Bot
 =============
 
- 'Botha' IRC BOT Copyright (C) 2013 April
+ 'Botha' IRC BOT Copyright (C) 2013 April @author: Harsha Siriwardena <www.harshadura.net>
  
- @author: Harsha Siriwardena <www.harshadura.net>
- 
- Powered by : PircBot <http://www.jibble.org/pircbot.php>
- 
- Inspired by: TrivialBot <http://code.google.com/p/trivialbot/>
+ Powered by : PircBot <http://www.jibble.org/pircbot.php> | Inspired by: TrivialBot <http://code.google.com/p/trivialbot/>
  
  GNU Public License <http://www.gnu.org/licenses/>
-
 
 Required tools
 --------------
