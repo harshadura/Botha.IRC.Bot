@@ -7,6 +7,8 @@ Botha.IRC.Bot
  
  GNU Public License <http://www.gnu.org/licenses/>
 
+ Try distribution: https://code.google.com/p/code-raala/downloads/detail?name=Botha.IRC.Bot.tar.gz
+
 Required tools
 --------------
 
