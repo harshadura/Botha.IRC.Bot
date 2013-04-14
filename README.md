@@ -29,5 +29,6 @@ How to Run
 5. Botha will be started on the stated Network Channel!
 6. Happy botting!
 
-Cheers.
+Cheers,
+
 Harsha
